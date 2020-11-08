@@ -1,3 +1,5 @@
+models/*
+
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,python
 
@@ -153,8 +155,3 @@ dmypy.json
 .prof
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
-
-models/meh.pth
-models/1.pth
-models/cifar10.pth
-models/test.pth
